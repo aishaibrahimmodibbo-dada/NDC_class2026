@@ -4,7 +4,8 @@ from playwright.sync_api import sync_playwright
 
 
 #put your search query here
-SEARCH_QUERY = "boko haram"
+SEARCH_QUERY = "aisha ibrahim modibbo
+"
 
 
 def main():
